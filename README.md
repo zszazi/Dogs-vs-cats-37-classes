@@ -1,8 +1,8 @@
 # Dogs-vs-cats-37-classes
-using **fastai** library
+Using **fastai** library
 
 
-### about Dataset
+### About Dataset
 
 [PET Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 
@@ -12,7 +12,7 @@ using **fastai** library
 
 ![image](https://user-images.githubusercontent.com/41579863/55870617-9db38f00-5ba6-11e9-8c90-ed97b69ad9aa.png)
 
-### Confusion Matric
+### Confusion Matrix
 
 ![image](https://user-images.githubusercontent.com/41579863/55870816-07339d80-5ba7-11e9-989b-132a18063f32.png)
 
